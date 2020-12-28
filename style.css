@@ -77,6 +77,12 @@ cursor: pointer;
         justify-content: center;
         align-items: center;
     }
+    .mainimage{
+    width: 100%;
+    }
+    .heading{
+    font-size: 60%;
+}
     .textpart{
         justify-content: center;
         text-align: center;
