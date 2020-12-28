@@ -2,7 +2,7 @@ body{
     font-family: Open Sans;
     background-color:hsl(257, 40%, 49%);
     color: white;
-    background-image: url("images/bg-desktop.png");
+    background-image: url("images/bg-desktop.svg");
 }
 .logo{
     width: 150px;
